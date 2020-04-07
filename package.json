@@ -1,0 +1,32 @@
+{
+  "name": "gulp-anyreplace",
+  "version": "1.0.1",
+  "description": "gulp replace anything what you want.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icai/gulp-anyreplace.git"
+  },
+  "keywords": [
+    "gulp",
+    "any",
+    "replace"
+  ],
+  "dependencies": {
+    "plugin-error": "^1.0.1",
+    "through2": "^3.0.1",
+    "vinyl": "^2.2.0"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "author": "Terry Cai",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/icai/gulp-anyreplace/issues"
+  },
+  "homepage": "https://github.com/icai/gulp-anyreplace#readme"
+}
