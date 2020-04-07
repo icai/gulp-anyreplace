@@ -10,7 +10,7 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/icai/gulp-anyreplace.svg)](https://github.com/icai/gulp-anyreplace/graphs/contributors)
 [![David](https://img.shields.io/david/icai/gulp-anyreplace.svg)](https://david-dm.org/icai/gulp-anyreplace)
 [![David Dev](https://img.shields.io/david/dev/icai/gulp-anyreplace.svg)](https://david-dm.org/icai/gulp-anyreplace?type=dev)
-![NPM](https://img.shields.io/npm/l/gulp-anyreplace)
+[![NPM](https://img.shields.io/npm/l/gulp-anyreplace)](https://www.npmjs.org/package/gulp-anyreplace)
 
 
 
