@@ -1,6 +1,6 @@
 {
   "name": "gulp-anyreplace",
-  "version": "1.0.2",
+  "version": "1.1.2",
   "description": "gulp replace anything what you want.",
   "main": "index.js",
   "scripts": {

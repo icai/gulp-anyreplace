@@ -23,7 +23,7 @@ const anyrepalce = function (callback) {
       file.contents = Buffer.from(result);
     }
     this.push(file);
-    callback();
+    cb();
   })
 }
 module.exports = anyrepalce;
