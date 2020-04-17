@@ -11,8 +11,8 @@ const anyrepalce = function (callback) {
       cb(null, file);
       return;
     }
-    if (file.isStream()) {
-      cb(new PluginError(PLUGIN_NAME, 'Streaming not supported'));
+    if (typeof callback !== 'function') {
+      cb(new PluginError(PLUGIN_NAME, 'Option only support fucntion'));
       return;
     }
     file = new Vinyl(file);
