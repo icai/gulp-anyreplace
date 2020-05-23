@@ -21,7 +21,7 @@
     "vinyl": "^2.2.0"
   },
   "devDependencies": {
-    "mocha": "*"
+    "mocha": ">=7.2.0"
   },
   "author": "Terry Cai",
   "license": "Apache-2.0",
